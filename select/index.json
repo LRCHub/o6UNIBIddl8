@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雁首、揃えてご機嫌よう",
+  "base_artist": "卯花ロク",
+  "createdAt": "2026-02-23T06:32:57.871067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雁首、揃えてご機嫌よう",
+      "artist": "卯花ロク",
+      "has_synced": true,
+      "path": "select/01_雁首、揃えてご機嫌よう_卯花ロク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雁首、揃えてご機嫌よう",
+      "artist": "卯花ロク",
+      "has_synced": false,
+      "path": "select/pl_01_雁首、揃えてご機嫌よう_卯花ロク.txt"
+    }
+  ]
+}
